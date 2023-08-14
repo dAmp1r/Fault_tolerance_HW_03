@@ -1,4 +1,4 @@
-# Fault_tolerance_HW_03Ф
+# Fault_tolerance_HW_03
 
 *Резервное копирование - Горбунов Дмитрий*
 
